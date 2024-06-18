@@ -1,7 +1,7 @@
 # Training | Gsap - Gsap-Workshop
 
 This is a **Training | Gsap App** named **Gsap-Workshop**, developed using various modern web technologies.  
-The app is designed to teach you how to use GSAP (GreenSock Animation Platform) in combination with React. 
+The app is designed to train  the basics of how to use GSAP (GreenSock Animation Platform) in combination with React. 
 The project was created with the help of the following tutorial from JS Mastery: [YouTube Tutorial](https://www.youtube.com/watch?v=kRQbRAJ4-Fs&t=4066s).
 
 ## Technologies
