@@ -16,7 +16,7 @@ The project was created with the help of the following tutorial from JS Mastery:
 
 ### Other
 
-- **JS Mastery**: The name of the channel or organization that provided the tutorial for creating this app. JS Mastery offers high-quality tutorials and learning resources for web development.
+- **JS Mastery**: The name of the channel that provided the tutorial for creating this app. JS Mastery offers high-quality tutorials and learning resources for web development.
 
 ## Usage
 
